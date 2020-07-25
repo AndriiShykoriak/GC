@@ -1,4 +1,4 @@
-package ua.com.executor;
+package ua.com.gc.executor;
 
 public class GenerateOOM {
     public void start() throws Exception {
